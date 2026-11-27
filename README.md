@@ -1,5 +1,10 @@
 # Ex.No.5-Building-and-Training-a-CNN
 ## Building and Training a CNN: Use a framework like TensorFlow or PyTorch to build and train a CNN
+NAME: NETHELAN M
+
+REG.NO.: 212225060182
+
+DATE: 27/11/2026
 ## Aim :To build and train a CNN 
 
 ## Procedure
